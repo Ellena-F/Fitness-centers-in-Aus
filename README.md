@@ -1,1 +1,3 @@
-![Alt text](https://public.tableau.com/views/victoriagym/Dashboard1?:display_count=y&:origin=viz_share_link "Optional title")
+
+![Alt text](/Fitness-centers-in-Aus/try.png?raw=true "Optional Title")
+
