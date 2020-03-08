@@ -1,3 +1,3 @@
 
-![Alt text](Fitness-centers-in-Aus/try.png?raw=true "Optional Title")
+![Alt text](/try.png?raw=true "Optional Title")
 
